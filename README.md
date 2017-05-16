@@ -1,5 +1,5 @@
 # image_resize
-Изменение размеров изображения на лету.
+Изменение размеров изображения на лету. Тестовая версия.
 
 <h4>Модуль использует библиотеку imagick.</h4>
 <p><a href="https://php.ru/manual/book.imagick.html" target="_blanck">Описание php.ru</a>.</p> 
