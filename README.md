@@ -11,7 +11,7 @@
 <p><b>В шаблоне</b>: &lt;img src="{magickCrop($page['field_image'], 300, 300)}"&gt;</p>
 
 <h4>Доступные функции:</h4>
-<h5>Кадрирование (обрезка)<h5>
+<h5>Кадрирование (обрезка)</h5>
 <p>magickCrop(<br>
 &nbsp;&nbsp;&nbsp;&nbsp;путь к изображению. Указывайте относительно (например: /uploads/images/logo.jpg).,<br>
 &nbsp;&nbsp;&nbsp;&nbsp;ширина || null,<br>
