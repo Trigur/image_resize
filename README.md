@@ -2,7 +2,9 @@
 Изменение размеров изображения на лету.
 
 <h4>Модуль использует библиотеку imagick.</h4>
-<p><a href="https://php.ru/manual/book.imagick.html" target="_blanck">Описание php.ru</a>. <a href="http://www.php.net/class.imagick" target="_blanck">Описание php.net</a>. <a href="http://firstwiki.ru/index.php/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_Imagemagick">Установка</a>.</p>
+<p><a href="https://php.ru/manual/book.imagick.html" target="_blanck">Описание php.ru</a>.</p> 
+<p><a href="http://www.php.net/class.imagick" target="_blanck">Описание php.net</a>.</p>
+<p><a href="http://firstwiki.ru/index.php/%D0%A3%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BA%D0%B0_Imagemagick">Установка</a>.</p>
 
 <h4>Алгоритмы взяты отсюда:</h4>
 <p><a href="https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm">https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm</a></p>
