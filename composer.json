@@ -7,7 +7,7 @@
     "image resize",
     "image crop",
     "image scale",
-    "imagick",
+    "imagick"
   ],
   "homepage": "https://github.com/Trigur/image_resize",
   "type": "imagecms-module",    
