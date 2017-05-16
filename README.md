@@ -4,7 +4,7 @@
 Модуль использует библиотеку imagick.
 
 <h4>Алгоритмы взяты отсюда:</h4>
-<p><a href="https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm"></a></p>
+<p><a href="https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm">https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm</a></p>
 
 <h4>Использование:</h4>
 <p><b>В админке</b>: "Модули" -> "Все модули" -> "Установить модули" -> "Установка" напротив "Image Resize".</p>
