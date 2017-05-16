@@ -8,7 +8,7 @@ https://github.com/tim-reynolds/crop/tree/UpdateEntropyAlgorithm
 
 Использование: 
 В админке: "Модули" -> "Все модули" -> "Установить модули" -> "Установка" напротив "Image Resize".
-В шаблоне: <img src="{magickCrop($page['field_image'], 300, 300)}">
+В шаблоне: \<img src=\"{magickCrop($page[\'field_image\'], 300, 300)}\"\>
 
 Доступные функции:
 
