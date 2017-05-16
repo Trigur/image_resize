@@ -8,24 +8,24 @@
 
 <h4>Использование:</h4>
 <p><b>В админке</b>: "Модули" -> "Все модули" -> "Установить модули" -> "Установка" напротив "Image Resize".</p>
-<p>В шаблоне: &laque;img src=\"{magickCrop($page['field_image'], 300, 300)}"&raque;</p>
+<p>В шаблоне: &laquo;img src=\"{magickCrop($page['field_image'], 300, 300)}"&raquo;</p>
 
 <h4>Доступные функции:</h4>
 <p>Изменнение размера изображения с обрезанием.<p>
 <p>magickCrop(<br>
-    путь к изображению. Указывайте относительно (например: /uploads/images/logo.jpg).,<br>
-    ширина || null,<br>
-    высота || null,<br>
-    качество изображения: от 1 до 100 (рекомендуемое: 70),<br>
-    тип: [center, entropy, balanced, face],<br>
-    заменять ли исходное изображение<br>
+&nbsp;&nbsp;&nbsp;&nbsp;путь к изображению. Указывайте относительно (например: /uploads/images/logo.jpg).,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ширина || null,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;высота || null,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;качество изображения: от 1 до 100 (рекомендуемое: 70),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;тип: [center, entropy, balanced, face],<br>
+&nbsp;&nbsp;&nbsp;&nbsp;заменять ли исходное изображение<br>
 );</p>
 
 <p>Изменнение размера изображения без обрезания.</p>
 <p>magickScale(<br>
-    путь к изображению. Указывайте относительно (например: /uploads/images/logo.jpg).,<br>
-    ширина || null,<br>
-    высота || null,<br>
-    качество изображения: от 1 до 100 (рекомендуемое: 70),<br>
-    заменять ли исходное изображение<br>
+&nbsp;&nbsp;&nbsp;&nbsp;путь к изображению. Указывайте относительно (например: /uploads/images/logo.jpg).,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;ширина || null,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;высота || null,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;качество изображения: от 1 до 100 (рекомендуемое: 70),<br>
+&nbsp;&nbsp;&nbsp;&nbsp;заменять ли исходное изображение<br>
 );</p>
