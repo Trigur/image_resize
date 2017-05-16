@@ -4,8 +4,10 @@
   "keywords": [
     "ImageCMS",
     "module",
-    "linker",
-    "linkerton"
+    "image resize",
+    "image crop",
+    "image scale",
+    "imagick",
   ],
   "homepage": "https://github.com/Trigur/image_resize",
   "type": "imagecms-module",    
