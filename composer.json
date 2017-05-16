@@ -1,0 +1,27 @@
+{
+  "name": "trigur/image_resize",
+  "description": "ImageCMS module",
+  "keywords": [
+    "ImageCMS",
+    "module",
+    "linker",
+    "linkerton"
+  ],
+  "homepage": "https://github.com/Trigur/image_resize",
+  "type": "imagecms-module",    
+  "extra": {
+    "installer-name": "image_resize"
+  },
+  "require": {
+    "php": ">=5.5",
+    "ext-curl": "*",
+    "composer/installers": "^1.0"
+  },
+  "authors": [
+      {
+        "name": "Trigur",
+        "email": "trigur@yandex.ru",
+        "homepage": "https://github.com/Trigur"
+      }
+  ]
+}
